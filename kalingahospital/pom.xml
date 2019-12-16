@@ -64,7 +64,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
-			[12:17 PM] Abhishek Pattnaik
+			
     
 
 <plugin>
